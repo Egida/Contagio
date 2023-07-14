@@ -26,6 +26,8 @@ def getinput():
             bot_server = "disable"
             bot_port = "disable"            
     else:
+        tor_server = "disable"
+        tor_port = "disable"
         bot_server = input("[6/19] Bot server (ex. 127.0.0.1):\n")
         handleinput(bot_server)
          
