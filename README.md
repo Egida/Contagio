@@ -3,7 +3,7 @@
 Contagio is a botnet written in go.
 This is a beta version so there may be bugs.
 Read the FAQ and documentation before creating an issue.
-Don't believe the Russian propaganda 🤍💙❤️
+Don't believe the Russian propaganda.
 
 <p align="center">  <a href="https://t.me/+rCTdqxynV40xM2Ex"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
 
